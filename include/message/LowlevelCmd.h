@@ -1,5 +1,5 @@
-#ifndef LOWLEVELCMD_H
-#define LOWLEVELCMD_H
+#ifndef Z1_CONTROLLER_LOWLEVELCMD_H
+#define Z1_CONTROLLER_LOWLEVELCMD_H
 
 #include "common/math/mathTypes.h"
 #include "common/math/mathTools.h"

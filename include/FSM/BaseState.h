@@ -1,5 +1,5 @@
-#ifndef BASESTATE_H
-#define BASESTATE_H
+#ifndef Z1_CONTROLLER_BASESTATE_H
+#define Z1_CONTROLLER_BASESTATE_H
 
 #include <string>
 #include "common/enumClass.h"

@@ -1,5 +1,5 @@
-#ifndef FSM_H
-#define FSM_H
+#ifndef Z1_CONTROLLER_FSM_H
+#define Z1_CONTROLLER_FSM_H
 
 #include <vector>
 #include "FSM/FSMState.h"

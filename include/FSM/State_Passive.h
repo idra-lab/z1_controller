@@ -1,5 +1,5 @@
-#ifndef PASSIVE_H
-#define PASSIVE_H
+#ifndef Z1_CONTROLLER_PASSIVE_H
+#define Z1_CONTROLLER_PASSIVE_H
 
 #include "FSM/FSMState.h"
 

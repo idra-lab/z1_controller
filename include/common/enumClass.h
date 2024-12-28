@@ -1,5 +1,5 @@
-#ifndef ENUMCLASS_H
-#define ENUMCLASS_H
+#ifndef Z1_CONTROLLER_ENUMCLASS_H
+#define Z1_CONTROLLER_ENUMCLASS_H
 
 enum class FSMMode{
     NORMAL,

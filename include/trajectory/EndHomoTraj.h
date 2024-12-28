@@ -1,5 +1,5 @@
-#ifndef ENDHOMOTRAJ_H
-#define ENDHOMOTRAJ_H
+#ifndef Z1_CONTROLLER_ENDHOMOTRAJ_H
+#define Z1_CONTROLLER_ENDHOMOTRAJ_H
 
 #include "model/ArmModel.h"
 #include "trajectory/Trajectory.h"

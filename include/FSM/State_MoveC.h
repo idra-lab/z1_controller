@@ -1,5 +1,5 @@
-#ifndef MOVEC_H
-#define MOVEC_H
+#ifndef Z1_CONTROLLER_MOVEC_H
+#define Z1_CONTROLLER_MOVEC_H
 
 #include "FSM/FSMState.h"
 #include "trajectory/EndCircleTraj.h"

@@ -1,5 +1,5 @@
-#ifndef STATETEACH_H
-#define STATETEACH_H
+#ifndef Z1_CONTROLLER_STATETEACH_H
+#define Z1_CONTROLLER_STATETEACH_H
 
 #include "FSM/FSMState.h"
 

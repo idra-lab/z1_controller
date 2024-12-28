@@ -1,5 +1,5 @@
-#ifndef _UNITREE_ARM_TIMER_H_
-#define _UNITREE_ARM_TIMER_H_
+#ifndef Z1_CONTROLLER__UNITREE_ARM_TIMER_H_
+#define Z1_CONTROLLER__UNITREE_ARM_TIMER_H_
 
 #include <iostream>
 #include <unistd.h>

@@ -1,5 +1,5 @@
-#ifndef STOPFORTIME_H
-#define STOPFORTIME_H
+#ifndef Z1_CONTROLLER_STOPFORTIME_H
+#define Z1_CONTROLLER_STOPFORTIME_H
 
 #include "trajectory/Trajectory.h"
 

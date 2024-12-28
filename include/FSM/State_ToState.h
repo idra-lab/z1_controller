@@ -1,5 +1,5 @@
-#ifndef TOSTATE_H
-#define TOSTATE_H
+#ifndef Z1_CONTROLLER_TOSTATE_H
+#define Z1_CONTROLLER_TOSTATE_H
 
 #include "FSM/FSMState.h"
 #include "trajectory/JointSpaceTraj.h"

@@ -1,5 +1,5 @@
-#ifndef STATE_TEACHREPEAT_H
-#define STATE_TEACHREPEAT_H
+#ifndef Z1_CONTROLLER_STATE_TEACHREPEAT_H
+#define Z1_CONTROLLER_STATE_TEACHREPEAT_H
 
 #include "FSM/FSMState.h"
 #include "trajectory/TrajectoryManager.h"

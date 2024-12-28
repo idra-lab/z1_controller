@@ -1,5 +1,5 @@
-#ifndef SCURVE_H
-#define SCURVE_H
+#ifndef Z1_CONTROLLER_SCURVE_H
+#define Z1_CONTROLLER_SCURVE_H
 
 /* 归一化后的s曲线 */
 

@@ -1,5 +1,5 @@
-#ifndef _UNITREE_GRIPPER_H
-#define _UNITREE_GRIPPER_H
+#ifndef Z1_CONTROLLER__UNITREE_GRIPPER_H
+#define Z1_CONTROLLER__UNITREE_GRIPPER_H
 
 #include <algorithm>
 #include <cmath>

@@ -1,5 +1,5 @@
-#ifndef _SDK_H
-#define _SDK_H
+#ifndef Z1_CONTROLLER__SDK_H
+#define Z1_CONTROLLER__SDK_H
 
 #include "message/udp.h"
 #include "control/cmdPanel.h"

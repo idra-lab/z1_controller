@@ -1,5 +1,5 @@
-#ifndef CTRLCOMPONENTS_H
-#define CTRLCOMPONENTS_H
+#ifndef Z1_CONTROLLER_CTRLCOMPONENTS_H
+#define Z1_CONTROLLER_CTRLCOMPONENTS_H
 
 #include <string>
 #include <iostream>

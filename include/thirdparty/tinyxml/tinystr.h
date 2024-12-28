@@ -22,10 +22,10 @@ distribution.
 */
 
 
-#ifndef TIXML_USE_STL
+#ifndef Z1_CONTROLLER_TIXML_USE_STL
 
-#ifndef TIXML_STRING_INCLUDED
-#define TIXML_STRING_INCLUDED
+#ifndef Z1_CONTROLLER_TIXML_STRING_INCLUDED
+#define Z1_CONTROLLER_TIXML_STRING_INCLUDED
 
 #include <assert.h>
 #include <string.h>
@@ -36,12 +36,12 @@ distribution.
 */
 #if defined(_MSC_VER) && (_MSC_VER >= 1200 )
 	// Microsoft visual studio, version 6 and higher.
-	#define TIXML_EXPLICIT explicit
+	#define Z1_CONTROLLER_TIXML_EXPLICIT explicit
 #elif defined(__GNUC__) && (__GNUC__ >= 3 )
 	// GCC version 3 and higher.s
-	#define TIXML_EXPLICIT explicit
+	#define Z1_CONTROLLER_TIXML_EXPLICIT explicit
 #else
-	#define TIXML_EXPLICIT
+	#define Z1_CONTROLLER_TIXML_EXPLICIT
 #endif
 
 

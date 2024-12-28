@@ -1,5 +1,5 @@
-#ifndef TRAJECTORY_H
-#define TRAJECTORY_H
+#ifndef Z1_CONTROLLER_TRAJECTORY_H
+#define Z1_CONTROLLER_TRAJECTORY_H
 
 #include "common/math/mathTools.h"
 #include "control/CtrlComponents.h"

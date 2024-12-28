@@ -1,5 +1,5 @@
-#ifndef LOWLEVELSTATE_HPP
-#define LOWLEVELSTATE_HPP
+#ifndef Z1_CONTROLLER_LOWLEVELSTATE_HPP
+#define Z1_CONTROLLER_LOWLEVELSTATE_HPP
 
 #include <iostream>
 #include <vector>

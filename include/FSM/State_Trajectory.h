@@ -1,5 +1,5 @@
-#ifndef CARTESIANPATH_H
-#define CARTESIANPATH_H
+#ifndef Z1_CONTROLLER_CARTESIANPATH_H
+#define Z1_CONTROLLER_CARTESIANPATH_H
 
 #include "FSM/FSMState.h"
 #include "trajectory/TrajectoryManager.h"

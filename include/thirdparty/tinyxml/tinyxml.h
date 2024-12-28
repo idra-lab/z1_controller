@@ -23,8 +23,8 @@ distribution.
 */
 
 
-#ifndef TINYXML_INCLUDED
-#define TINYXML_INCLUDED
+#ifndef Z1_CONTROLLER_TINYXML_INCLUDED
+#define Z1_CONTROLLER_TINYXML_INCLUDED
 
 #ifdef _MSC_VER
 #pragma warning( push )
@@ -40,43 +40,43 @@ distribution.
 
 // Help out windows:
 #if defined( _DEBUG ) && !defined( DEBUG )
-#define DEBUG
+#define Z1_CONTROLLER_DEBUG
 #endif
 
 #ifdef TIXML_USE_STL
 	#include <string>
  	#include <iostream>
 	#include <sstream>
-	#define TIXML_STRING		std::string
+	#define Z1_CONTROLLER_TIXML_STRING		std::string
 #else
 	#include "tinystr.h"
-	#define TIXML_STRING		TiXmlString
+	#define Z1_CONTROLLER_TIXML_STRING		TiXmlString
 #endif
 
 // Deprecated library function hell. Compilers want to use the
 // new safe versions. This probably doesn't fully address the problem,
 // but it gets closer. There are too many compilers for me to fully
 // test. If you get compilation troubles, undefine TIXML_SAFE
-#define TIXML_SAFE
+#define Z1_CONTROLLER_TIXML_SAFE
 
 #ifdef TIXML_SAFE
 	#if defined(_MSC_VER) && (_MSC_VER >= 1400 )
 		// Microsoft visual studio, version 2005 and higher.
-		#define TIXML_SNPRINTF _snprintf_s
-		#define TIXML_SSCANF   sscanf_s
+		#define Z1_CONTROLLER_TIXML_SNPRINTF _snprintf_s
+		#define Z1_CONTROLLER_TIXML_SSCANF   sscanf_s
 	#elif defined(_MSC_VER) && (_MSC_VER >= 1200 )
 		// Microsoft visual studio, version 6 and higher.
 		//#pragma message( "Using _sn* functions." )
-		#define TIXML_SNPRINTF _snprintf
-		#define TIXML_SSCANF   sscanf
+		#define Z1_CONTROLLER_TIXML_SNPRINTF _snprintf
+		#define Z1_CONTROLLER_TIXML_SSCANF   sscanf
 	#elif defined(__GNUC__) && (__GNUC__ >= 3 )
 		// GCC version 3 and higher.s
 		//#warning( "Using sn* functions." )
-		#define TIXML_SNPRINTF snprintf
-		#define TIXML_SSCANF   sscanf
+		#define Z1_CONTROLLER_TIXML_SNPRINTF snprintf
+		#define Z1_CONTROLLER_TIXML_SSCANF   sscanf
 	#else
-		#define TIXML_SNPRINTF snprintf
-		#define TIXML_SSCANF   sscanf
+		#define Z1_CONTROLLER_TIXML_SNPRINTF snprintf
+		#define Z1_CONTROLLER_TIXML_SSCANF   sscanf
 	#endif
 #endif	
 

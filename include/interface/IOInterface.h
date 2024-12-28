@@ -1,5 +1,5 @@
-#ifndef IOINTERFACE_H
-#define IOINTERFACE_H
+#ifndef Z1_CONTROLLER_IOINTERFACE_H
+#define Z1_CONTROLLER_IOINTERFACE_H
 
 #include <string>
 #include "message/LowlevelCmd.h"

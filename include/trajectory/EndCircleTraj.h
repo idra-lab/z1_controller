@@ -1,5 +1,5 @@
-#ifndef ENDCIRCLETRAJ_H
-#define ENDCIRCLETRAJ_H
+#ifndef Z1_CONTROLLER_ENDCIRCLETRAJ_H
+#define Z1_CONTROLLER_ENDCIRCLETRAJ_H
 
 #include "trajectory/EndHomoTraj.h"
 

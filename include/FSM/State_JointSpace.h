@@ -1,5 +1,5 @@
-#ifndef JOINTSPACE_H
-#define JOINTSPACE_H
+#ifndef Z1_CONTROLLER_JOINTSPACE_H
+#define Z1_CONTROLLER_JOINTSPACE_H
 
 #include "FSM/FSMState.h"
 

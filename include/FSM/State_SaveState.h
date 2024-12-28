@@ -1,5 +1,5 @@
-#ifndef SAVESTATE_H
-#define SAVESTATE_H
+#ifndef Z1_CONTROLLER_SAVESTATE_H
+#define Z1_CONTROLLER_SAVESTATE_H
 
 #include "FSMState.h"
 #include "common/utilities/CSVTool.h"

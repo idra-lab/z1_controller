@@ -1,5 +1,5 @@
-#ifndef FILTER
-#define FILTER
+#ifndef Z1_CONTROLLER_FILTER
+#define Z1_CONTROLLER_FILTER
 
 #include <vector>
 #include <eigen3/Eigen/Dense>

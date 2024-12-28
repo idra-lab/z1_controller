@@ -1,5 +1,5 @@
-#ifndef _CMDPANEL_H_
-#define _CMDPANEL_H_
+#ifndef Z1_CONTROLLER__CMDPANEL_H_
+#define Z1_CONTROLLER__CMDPANEL_H_
 
 #include <vector>
 #include <deque>

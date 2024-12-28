@@ -1,5 +1,5 @@
-#ifndef CSVTOOL_H
-#define CSVTOOL_H
+#ifndef Z1_CONTROLLER_CSVTOOL_H
+#define Z1_CONTROLLER_CSVTOOL_H
 
 /* 
     personal tool for .csv reading and modifying.

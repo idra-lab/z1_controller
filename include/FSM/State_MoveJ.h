@@ -1,5 +1,5 @@
-#ifndef MOVEJ_H
-#define MOVEJ_H
+#ifndef Z1_CONTROLLER_MOVEJ_H
+#define Z1_CONTROLLER_MOVEJ_H
 
 #include "FSM/FSMState.h"
 #include "trajectory/JointSpaceTraj.h"

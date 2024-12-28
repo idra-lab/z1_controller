@@ -1,5 +1,5 @@
-#ifndef MATHTOOLS_H
-#define MATHTOOLS_H
+#ifndef Z1_CONTROLLER_MATHTOOLS_H
+#define Z1_CONTROLLER_MATHTOOLS_H
 
 #include <iostream>
 #include <math.h>

@@ -1,5 +1,5 @@
-#ifndef _UDP_H
-#define _UDP_H
+#ifndef Z1_CONTROLLER__UDP_H
+#define Z1_CONTROLLER__UDP_H
 
 #include <arpa/inet.h>
 #include <termios.h>

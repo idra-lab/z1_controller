@@ -1,5 +1,5 @@
-#ifndef JOINTSPACETRAJ_H
-#define JOINTSPACETRAJ_H
+#ifndef Z1_CONTROLLER_JOINTSPACETRAJ_H
+#define Z1_CONTROLLER_JOINTSPACETRAJ_H
 
 #include <vector>
 #include <trajectory/Trajectory.h>

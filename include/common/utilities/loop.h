@@ -1,5 +1,5 @@
-#ifndef _UNITREE_ARM_LOOP_H_
-#define _UNITREE_ARM_LOOP_H_
+#ifndef Z1_CONTROLLER__UNITREE_ARM_LOOP_H_
+#define Z1_CONTROLLER__UNITREE_ARM_LOOP_H_
 
 #include <stdio.h>
 #include <stdlib.h>

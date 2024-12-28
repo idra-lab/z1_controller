@@ -1,5 +1,5 @@
-#ifndef FSMSTATE_H
-#define FSMSTATE_H
+#ifndef Z1_CONTROLLER_FSMSTATE_H
+#define Z1_CONTROLLER_FSMSTATE_H
 
 #include <string>
 #include <iostream>

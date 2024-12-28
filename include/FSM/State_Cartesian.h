@@ -1,5 +1,5 @@
-#ifndef CARTESIAN_H
-#define CARTESIAN_H
+#ifndef Z1_CONTROLLER_CARTESIAN_H
+#define Z1_CONTROLLER_CARTESIAN_H
 
 #include "FSM/FSMState.h"
 

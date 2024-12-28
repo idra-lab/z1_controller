@@ -1,5 +1,5 @@
-#ifndef ENDLINETRAJ_H
-#define ENDLINETRAJ_H
+#ifndef Z1_CONTROLLER_ENDLINETRAJ_H
+#define Z1_CONTROLLER_ENDLINETRAJ_H
 
 #include "trajectory/EndHomoTraj.h"
 #include "trajectory/SCurve.h"

@@ -1,5 +1,5 @@
-#ifndef TRAJECTORY_MANAGER_H
-#define TRAJECTORY_MANAGER_H
+#ifndef Z1_CONTROLLER_TRAJECTORY_MANAGER_H
+#define Z1_CONTROLLER_TRAJECTORY_MANAGER_H
 
 #include <vector>
 #include "control/CtrlComponents.h"

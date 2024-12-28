@@ -1,5 +1,5 @@
-#ifndef LOWCMD_H
-#define LOWCMD_H
+#ifndef Z1_CONTROLLER_LOWCMD_H
+#define Z1_CONTROLLER_LOWCMD_H
 
 #include "FSMState.h"
 

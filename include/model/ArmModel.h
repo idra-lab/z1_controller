@@ -1,5 +1,5 @@
-#ifndef ARMMODEL_H
-#define ARMMODEL_H
+#ifndef Z1_CONTROLLER_ARMMODEL_H
+#define Z1_CONTROLLER_ARMMODEL_H
 
 #include <vector>
 #include "common/math/robotics.h"
